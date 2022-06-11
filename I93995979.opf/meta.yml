@@ -1,0 +1,26 @@
+id: I93995979
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:18:18.608118'
+last_modified: '2022-06-11T13:18:18.608128'
+parser: null
+source_metadata:
+  title: Yeshe Dorje
+  language: en
+  description: 'Texts by and about Yeshe Dorje (ye shes rdo rje), a prominent disciple
+    of Nyala Pema Düdul who stayed at Lumorab monastery for many years along with
+    Tertön Rangrik Dorje:'
+  volume:
+    fC4A9:
+      title: Prayer to the Lineage of Lumorab
+      base_file: fC4A9.txt
+      order: 1
+      parent: Lineage Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
